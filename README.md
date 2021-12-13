@@ -1,5 +1,5 @@
 ### Hi! I Am MeloJrx! 👋👨🏻‍💻
-Desenvolvedor FullStack JS 
+Developer FullStack JS 
 
 ### You Find me here
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melojjr/)
