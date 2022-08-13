@@ -4,7 +4,7 @@
 
 
 ### I Am Melo Jr. 👋👨🏻‍💻
-# Data Science Student, Python, Economist, Systems Analyst</sub>
+### Data Science Student, Python, Economist, Systems Analyst</sub>
 
 
 ### You Find me here
