@@ -31,5 +31,6 @@
 * Contruindo um Robô inteligente com ChatGPT e Python - https://medium.com/@jrmeloafrf/contruindo-um-robô-inteligente-com-chatgpt-e-python-543a3b5ae692
 
 
-![Melox GitHub stats](https://github-readme-stats.vercel.app/api?username=melojrx&show_icons=true&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?melojrx=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
