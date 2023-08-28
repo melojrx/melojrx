@@ -32,5 +32,5 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?melojrx=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Melox GitHub stats](https://github-readme-stats.vercel.app/api?username=melojrx&show_icons=true&theme=radical)
 
