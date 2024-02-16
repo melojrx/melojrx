@@ -6,11 +6,6 @@
 ### I Am Melo Jr. 👋👨🏻‍💻
 ### Web Developer (Jr) | Python (Flask + Django) | Economist | Systems Analyst and Data Science Student</sub>
 
-
-### You Find me here
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melojjr/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5585996248282&text=Ol%C3%A1!!%20Encontrei%20voc%C3%AA%20no%20github.%20Desenjo%20entrar%20em%20contato!)
-
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/melo-jr-a4817127)
