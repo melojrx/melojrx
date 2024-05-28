@@ -4,7 +4,7 @@
 
 
 ### I Am Melo Jr. 👋👨🏻‍💻
-### Web Developer (Jr) | Python (Flask/Django) | Economist | Systems Analyst and Data Science Student</sub>
+### Web Developer Python (Flask, Django) Economista | Analista de Sistemas | Analista de Dados e BI | Estudante de Ciência de Dados | Escritor</sub>
 
 **Links:**
 
