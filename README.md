@@ -3,8 +3,8 @@
 </p>
 
 
-### I Am Melo Jr. 👋👨🏻‍💻
-### Web Developer Python (Flask, Django) Economista | Analista de Sistemas | Analista de Dados e BI | Estudante de Ciência de Dados | Escritor</sub>
+### Olá, Júnior Melo por aqui, 👋👨🏻‍💻
+### Desenvolvedor Python (Flask, Django) Economista | Analista de Sistemas | Analista de Dados e BI | Mestrando de Ciência de Dados | Escritor</sub>
 
 **Links:**
 
@@ -14,6 +14,8 @@
 ### Skills 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
