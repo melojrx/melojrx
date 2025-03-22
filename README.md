@@ -3,8 +3,8 @@
 </p>
 
 
-### Olá, Júnior Melo por aqui, 👋👨🏻‍💻
-### Desenvolvedor Python (Flask, Django) Economista | Analista de Sistemas | Analista de Dados e BI | Mestrando de Ciência de Dados | Escritor</sub>
+### Hi, Júnior Melo, 👋👨🏻‍💻
+### Full Stack Python (Django) Web Developer | Systems Analyst | Federal Public Servant, Data and BI Analyst at @gestaogovbr.r</sub>
 
 **Links:**
 
