@@ -4,7 +4,7 @@
 
 
 ### Hi, Júnior Melo, 👋👨🏻‍💻
-### Full Stack Python (Django) Web Developer | Systems Analyst | Federal Public Servant, Data and BI Analyst at @gestaogovbr.r</sub>
+### Full Stack Python (Django) Web Developer | Systems Analyst | Federal Public Servant, Data and BI Analyst at @gestaogovbr</sub>
 
 **Links:**
 
